@@ -1,1 +1,8 @@
 1.b false
+2.c loop
+3.c increases the value by 1
+4.c do-while loop
+5.b 4
+6.c AB
+7.a 6,15
+8.c 8
